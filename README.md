@@ -1,5 +1,5 @@
 # london parks
-london parks by henry rowett
+london parks by [henryrowett](https://github.com/henryrowett)
 
 **colour scheme**
 - dark water - #40A2D3
